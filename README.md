@@ -65,6 +65,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AgrawalDrishti/AgrawalDrishti/output/snake.svg" alt="Snake animation" />
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/AgrawalDrishti/AgrawalDrishti/output/github-contribution-grid-snake.svg"
+     alt="Snake animation" />
 
 ###
