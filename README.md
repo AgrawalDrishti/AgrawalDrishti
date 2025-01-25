@@ -65,7 +65,4 @@
 
 <br clear="both">
 
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/AgrawalDrishti/AgrawalDrishti/output/snake.svg" alt="Snake animation" />
-
 ###
