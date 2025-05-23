@@ -49,6 +49,20 @@
 
 ###
 
+---
+
+## **Showcasing My Latest Creation: PortfolioCraft!** 🚀
+
+As a developer, I build solutions. My newest project, **[PortfolioCraft](https://portfolio-craft.tech/)**, is a testament to that. It's a platform I developed to empower other creators and developers to effortlessly showcase their work.
+
+<div align="center">
+  <a href="https://portfolio-craft.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Build%20Your%20Portfolio%20Now!-FF5733?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20" height="35" alt="PortfolioCraft website link" />
+  </a>
+</div>
+
+---
+
 <div align="left">
   <a href="https://www.instagram.com/drishti_2904/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
