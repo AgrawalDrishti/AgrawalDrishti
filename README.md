@@ -9,9 +9,9 @@
   CSE Undergrad @ IIT Jodhpur 🎓<br/>
 </h3>
 
-<!-- 🚀 Visual Hook -->
+<!-- 🧠 Cool Developer-Themed Visual Hook -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Developer animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Cool developer at work" />
 </p>
 
 <!-- 💬 Tagline -->
@@ -40,14 +40,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AgrawalDrishti&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
-
 ### 📈 My GitHub Stats
 
 <p align="center">
@@ -55,23 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AgrawalDrishti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgrawalDrishti&layout=compact&theme=dracula" height="150"/>
 </p>
-
----
-
-### 🚀 Featured Project: [**PortfolioCraft**](https://portfolio-craft.tech/)
-
- Empowering developers and designers to showcase their work with live previews, instant deployment & elegant designs!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="UI design animation"/>
-</p>
-
-<div align="center">
-  <a href="https://portfolio-craft.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/TRY%20NOW%20%E2%9A%A1-ff6f61?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
-
 
 ---
 
