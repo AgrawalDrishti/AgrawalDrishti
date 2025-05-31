@@ -1,19 +1,24 @@
 <!-- Top banner -->
 <!-- Typing Animation Header -->
+<!-- 🔥 Banner: Greeting + Role -->
+<h1 align="center">
+  Hi, I'm <span style="color:#FF6F61">Drishti Agrawal</span> 👩‍💻
+</h1>
+
+<h3 align="center">
+  CSE Undergrad @ IIT Jodhpur 🎓<br/>
+</h3>
+
+<!-- 🚀 Visual Hook -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Drishti+Agrawal!;CSE+Undergrad+at+IIT+Jodhpur+%F0%9F%8F%9B;Full-Stack+Developer+%F0%9F%9A%80;Design+Enthusiast+%F0%9F%96%8C%EF%B8%8F;Always+Learning+%F0%9F%93%9A;Building+PortfolioCraft+%F0%9F%9A%A1" alt="Typing animation" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Developer animation" />
 </p>
 
-<!-- Hero Giphy (Developer animation) -->
+<!-- 💬 Tagline -->
 <p align="center">
-  <img src="https://thumbs.dreamstime.com/b/startup-rocket-growth-d-orange-rocket-flying-upward-orange-arrow-above-blue-bar-chart-symbolizing-startup-launch-business-379281933.jpg" width="300" alt="Rocket growth startup" />
+  <b>⚡ Turning innovative ideas into delightful web experiences.</b><br/>
+  <i>Currently building <a href="https://portfolio-craft.tech" target="_blank"><b>PortfolioCraft</b></a> 💼</i>
 </p>
-
-<!-- Tagline or Bio -->
-<p align="center">
-  <strong>🚀 Turning ideas into reality through code & design .</strong>
-</p>
-
 
 ---
 
@@ -72,19 +77,11 @@
 
 ### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.instagram.com/drishti_2904/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:agrawal.24@iitj.ac.in" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/drishti-agrawal-a6b977229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-### 📌 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving hand" /> </p> <p align="center"><b>I'd love to connect, collaborate or just chat tech 🚀<br>Let's grow together!</b></p> <p align="center"> 
+  <a href="https://www.linkedin.com/in/drishti-agrawal-a6b977229/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+  <a href="mailto:agrawal.24@iitj.ac.in" target="_blank"> <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+  <a href="https://www.instagram.com/drishti_2904/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> 
+</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Awesome+Together!" alt="Let's connect" /> </p>
 
 ---
 
