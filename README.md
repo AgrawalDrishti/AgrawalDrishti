@@ -29,7 +29,7 @@
 - 🚀 Founder of **[PortfolioCraft](https://portfolio-craft.tech)** — a platform to launch your portfolio in seconds!
 - ⚡ Quick learner with strong **team spirit** and a collaborative mindset
 - 📚 Always exploring new tech, currently trying to make something **exciting and cool**.
-
+- 🌐 To know more about me, checkout at [drishti-portfolio-link](https://agrawaldrishti.github.io/DrishtiAgrawal_Portfolio/)
 ---
 
 ### 🧩 Tech Stack
