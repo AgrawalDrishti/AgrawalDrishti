@@ -40,6 +40,14 @@
 
 ---
 
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AgrawalDrishti&label=Profile+Views&color=FF6F61&style=flat" alt="AgrawalDrishti" />
+</p>
+
+---
+
 ### 📈 My GitHub Stats
 
 <p align="center">
